@@ -18,9 +18,10 @@
 
 ![Превью страницы](preview.jpg)
 
-Обязательно используй
-[parcel-project-template](https://github.com/goitacademy/parcel-project-template)
-для сборки и деплоя проекта.
+- Обязательно используй
+  [parcel-project-template](https://github.com/goitacademy/parcel-project-template)
+  для сборки и деплоя проекта.
+- Массив объектов блюд лежит в [menu.json](./src/menu.json)
 
 ## Тема
 
@@ -48,8 +49,8 @@ const Theme = {
 ## Шаблонизация
 
 Используя шаблонизатор [Handlebars](https://handlebarsjs.com/), создай шаблон
-одного элемента меню. После чего, используя шаблон, создай разметку всего меню и
-добавь в DOM в `ul.js-menu`.
+одного элемента меню. После чего, используя шаблон, создай разметку всего меню
+по данным из [menu.json](./src/menu.json) и добавь в DOM в `ul.js-menu`.
 
 Для иконок используется библиотека `Material Icons`, линк на веб-фонт уже есть в
 исходном HTML.
