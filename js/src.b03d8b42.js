@@ -15,4 +15,4 @@ var e={LIGHT:"light-theme",DARK:"dark-theme"},t=e.LIGHT,c=e.DARK,o=document.quer
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./styles.css"),require("./js/menu-markup"),require("./js/switch-theme");
 },{"./styles.css":"Tnu0","./js/menu-markup":"Kgfu","./js/switch-theme":"pE8F"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.b03d8b42.js.map
+//# sourceMappingURL=js-hw-10-food-service/src.b03d8b42.js.map
